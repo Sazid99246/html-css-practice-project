@@ -1,17 +1,14 @@
 h1, h2{
     text-align: center;
 }
-#seperate {
-    text-align: left;
-}
 ol {
     list-style: none;
     display: flex;
 }
 li {
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;    
 }
 .inline {
     background-color: lightgoldenrodyellow;
@@ -48,4 +45,7 @@ table {
 }
 #tammam {
     background-color: cornsilk;
+}
+.list-item {
+    margin: auto;
 }
