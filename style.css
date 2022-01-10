@@ -49,3 +49,15 @@ table {
 .list-item {
     margin: auto;
 }
+
+.fa-youtube {
+    font-size: 200px;
+    color: red;
+}
+.fa-facebook {
+    font-size: 200px;
+    color: blue;
+}
+.fa-facebook:hover {
+    color: blue;
+}
