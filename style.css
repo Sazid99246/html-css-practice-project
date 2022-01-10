@@ -5,7 +5,8 @@ ol {
     list-style: none;
     display: flex;
 }
-li {
+
+ol li {
     padding-left: 5%;
     padding-right: 5%;
     padding-bottom: 5%;    
@@ -60,4 +61,24 @@ table {
 }
 .fa-facebook:hover {
     color: blue;
+}
+ul {
+    list-style: none;
+    display: flex;
+    overflow: hidden;
+}
+ul li{
+    padding-right: 5%;
+    padding-left: 5%;
+}
+ul a {
+    float: left;
+    display: flex;
+    position: absolute;
+    text-decoration: none;
+    color: white;
+}
+nav {
+    padding: 50px;
+    background-color: black;
 }
