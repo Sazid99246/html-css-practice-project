@@ -1,0 +1,51 @@
+h1, h2{
+    text-align: center;
+}
+#seperate {
+    text-align: left;
+}
+ol {
+    list-style: none;
+    display: flex;
+}
+li {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+}
+.inline {
+    background-color: lightgoldenrodyellow;
+}
+.block {
+    background-color: lightcyan;
+}
+.inline-block {
+    background-color: lightblue;
+}
+td, th {
+    border: 1px solid lightseagreen;
+    padding: 10px 10px;
+}
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+#rifat {
+    background-color: lightcyan;
+}
+#main {
+    background-color: lightyellow;
+}
+#sourav {
+    background-color: lightpink;
+}
+#mahmudul {
+    background-color: khaki;
+}
+#raian {
+    background-color: violet;
+}
+#tammam {
+    background-color: cornsilk;
+}
